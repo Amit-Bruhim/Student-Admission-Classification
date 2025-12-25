@@ -46,6 +46,7 @@ The project demonstrates the fundamental process of building, training, and eval
 - **Git:** (to clone the repository)  
 
 ---
+## Installation
 
 ### 1. Clone the repository
 ```bash
@@ -54,7 +55,7 @@ git clone https://github.com/Amit-Bruhim/Student-Admission-Classification.git
 
 ### 2. Navigate into the project folder
 ```bash
-cd Logistic-Regression-Admission
+cd Student-Admission-Classification
 ```
 
 ### 3. Install required libraries
