@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/language-Python-blue)
 
-# Student Admission Classification
+# Student Admission Classification 📈
 🎓 Machine learning project that uses logistic regression to predict university admission based on two exam scores
 
 ## Table of Contents  
